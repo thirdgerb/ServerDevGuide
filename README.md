@@ -54,8 +54,9 @@
     + 用户权限管理
     + 包管理
 + 网络通信
-    + IP
-    + TCP
+    + [IP](interview/network_ip.md)
+    + DNS
+    + [TCP](interview/network_tcp.md)
     + UDP
     + Http
         + KeepAlive
@@ -131,10 +132,12 @@
         + 监控数据存储
         + 链路追踪
         + 异常追踪
+        + 服务器监控
     + 通信
         + 协议
             + RPC
     + 任务管理
+    + CDN
 + 数据库知识
     + 分库分表
     + 事务
@@ -197,6 +200,8 @@
 
 + 迭代策略
 + 发布策略
++ 版本控制
+    + git
 + 自动化测试
     + 代码自动化测试
     + 架构自动化测试
