@@ -66,13 +66,13 @@
 + 常用工具
     + 服务搭建
         + Linux 主从
-        + [Nginx](interviw/tools_nginx.md)
+        + [Nginx](interview/tools_nginx.md)
     + 非关系型数据库
         + Redis
         + MongoDB
         + HBase
     + 关系型数据库
-        + Mysql
+        + [Mysql](/interview/database_mysql.md)
     + 图数据库
         + Neo4j
     + 搜索
