@@ -62,10 +62,11 @@
         + KeepAlive
         + Https
     + Http 2.0
+    + [CGI & Fast-cgi]((interviw/network_cgi.md))
 + 常用工具
     + 服务搭建
         + Linux 主从
-        + Nginx
+        + [Nginx](interviw/tools_nginx.md)
     + 非关系型数据库
         + Redis
         + MongoDB
@@ -152,6 +153,19 @@
 
 ## PHP
 
++ PHP 基础
+    + [语法要点](/interviw/php_lang.md)
+    + [PHP-FPM](/interview/php_fpm.md)
+    + [PHP 生命周期](/interview/php_lifecircle.md)
+    + 重要参数
+    + 数据结构
++ [常用扩展](/interview/php_modules.md)
+    + Opcache 原理
+    + Xdebug
+    + PDO
+    + Xprof
+    + APC
++ Swoole
 + 开发框架
     + Laravel
     + Swoole 协程框架
@@ -163,9 +177,6 @@
         + CI
         + Yaf
         + ThinkPHP
-+ Swoole 知识点
-+ PHP 基础
-    + PHP 启动生命周期
 + 常用包
     + Composer
     + Symfony
